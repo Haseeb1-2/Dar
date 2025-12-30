@@ -1,0 +1,51 @@
+body {
+  background-color: #f5f5f5; /* Neutral light background */
+  font-family: Arial, sans-serif;
+  text-align: center;
+  color: #333; /* Dark text for contrast */
+  padding: 40px;
+}
+
+  content {
+  display: inline-block;
+  background-color: #ffffff; /* White content background */
+  padding: 20px;
+  border-radius: 15px;
+  border: 5px solid #50C878; /* Emerald green border around the content */
+  box-shadow: 0 0 20px rgba(0,0,0,0.1); /* Subtle shadow for depth */
+}
+  /* Optional: decorative swirl effect */
+  border-image: url('https://i.ibb.co/Z6GvW7B/swirl-border.png') 30 round;
+
+table {
+  margin: 20px auto;
+  border-collapse: collapse;
+}
+
+th {
+  padding: 10px;
+  background-color: #e0e0e0; /* Light gray for headers */
+  border: 1px solid #ccc;
+}
+
+td input {
+  width: 50px;
+  text-align: center;
+  padding: 5px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  
+ .reminder {
+  font-style: italic;      /* Italics */
+  color: #555;             /* Optional: softer gray color */
+  margin-bottom: 20px;     /* Space below th 
+   
+   .reminder {
+  font-style: italic;      /* Italics */
+  font-weight: bold;       /* Bold */
+  font-size: 1.2em;        /* Slightly larger than normal text */
+  color: #555;             /* Optional: soft gray for readability */
+  margin-bottom: 20px;     /* Space below t
+   
+   border: 8px solid black;
+border-radius: 15px;
